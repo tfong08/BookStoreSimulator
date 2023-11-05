@@ -804,19 +804,55 @@ void strUpper(char* strPt){
     }
 }
 
+void strUpper(char* strPt){
+    if(strPt == nullptr){
+        return;
+    }
+    //change character to uppercase and point to next character in string
+    while (*strPt!='\0') {
+        *strPt = toupper(*strPt);
+        strPt++;
+    }
+}
+
 void setTitle(char* titlePt,int bookInd){
+    strUpper(titlePt);
     strcpy(bookInv[bookInd].bookTitle, titlePt);
 }
 void setISBN(char* isbnPt,int bookInd){
     strcpy(bookInv[bookInd].isbn, isbnPt);
 }
-void setAuthor(string*,int);
-void setPub(string*,int);
-void setDateAdded(string*,int);
-void setQty(int,int);
-void setWholesale(double,int);
-void setRetail(double,int);
-int isEmpty(int);
-void removeBook(int);
+void setAuthor(char* authPt,int bookInd){
+    strUpper(authPt);
+    strcpy(bookInv[bookInd].bookTitle, authPt);
+}
+void setPub(char* pubPt,int bookInd){
+    strUpper(pubPt);
+    strcpy(bookInv[bookInd].bookTitle, pubPt);
+}
+void setDateAdded(char* datePt,int bookInd){
+    strUpper(datePt);
+    strcpy(bookInv[bookInd].bookTitle, datePt);
+}
+void setQty(int qty,int bookInd){
+    bookInv[bookInd].qtyOnHand = qty;
+}
+void setWholesale(double whole,int bookInd){
+    bookInv[bookInd].wholesale = whole;
+}
+void setRetail(double retail,int bookInd){
+    bookInv[bookInd].retail = retail;
+}
+int isEmpty(int bookInd){
+    if(bookInv[bookInd].bookTitle[0] == '\0'){
+        return 1;
+    }else{
+        return 0;
+    }
+}
+void removeBook(int bookInd){
+    bookInv[bookInd].bookTitle[0] = '\0';
+}
+
 
 
