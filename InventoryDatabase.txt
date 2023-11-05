@@ -1,0 +1,24 @@
+{\rtf1\ansi\ansicpg1252\cocoartf2706
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww28900\viewh15920\viewkind0
+\deftab720
+\pard\pardeftab720\partightenfactor0
+
+\f0\fs24 \cf0 0061655554,Barbarians at the Gate, Jonathan Burrow, Harper Business,12/01/2009,12,11.20,24.99\
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+\cf0 0385539258,A Little Life, Hanya Yanagihara, Doubleday, 03/10/2015, 5, 7.73,18.00\
+978164937042,The Fourth Wing, Rebecca Yarros, Red Tower Books, 04/05/2023, 4,16,75,26.99\
+9780375714368,Cutting for Stone, Abraham Ferghese, Doubleday, 01/26/2010, 20, 25.45,70.96\
+9780593321201, Tomorrow and Tomorrow and Tomorrow, Gabrielle Zevin, Knopf Publishing Group, 07/05/2022, 47,  8.30, 14.71\
+9781524798628, Daisy Jones & The Six, Taylor Jenkins Reid, Ballantine Books, 03/05/2019, 12, 13.87, 21.92\
+9780553448122, Artemis, Andy Weir, Crown, 11/14/2017, 23, 6.90,12.99\
+9780063204201, The Measure, Nicki Erlick, HarperCollins Publishers, 06/28/2022, 6, 15.84, 32.99\
+9781250805959, Thinking 101, Woo-Kyoung Ahn, Flatiron Books, 09/13/2022, 2, 12.25, 28.99\
+9780593186060, Portrait of a Thief, Grace Li, Holder & Stoughton, 04/05/2022, 11, 11.11, 19.05\
+1400043395, Never Let Me Go, Kazoo Ishiguro, Faber and Faber, 01/01/2005, 13, 4.78,16.18\
+9780062060624, The Song of Achilles, Madeline Miller, Ecco Press, 09/20/2011, 24, 8.85, 16.50\
+0062502174, The Alchemist, Paulo Coelho, HarperTorch, 01/01/1993, 46, 5.96, 20.99\
+9780399590504, Educated, Tara Westover, Random House, 02/18/2018, 3, 12.36, 20.66\
+1843431106, Kafka on the Shore, Haruki Murakami, The Harvill Press, 01/01/2005, 9, 15.93, 105.37}
